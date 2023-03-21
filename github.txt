@@ -1,6 +1,0 @@
-git rm -rf --cached . // remove files from remote directory
-vim .gitignore // hide files
-git add .
-git commit -m "<message>"
-git push
-
